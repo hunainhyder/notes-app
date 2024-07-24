@@ -4,4 +4,4 @@
 - Vite
 - AppWrite
 
-(Inspiration)[https://www.youtube.com/watch?v=yBThHM2pBbE]
+[Inspiration](https://www.youtube.com/watch?v=yBThHM2pBbE)
